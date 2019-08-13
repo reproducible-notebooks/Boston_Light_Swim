@@ -8,6 +8,7 @@ dependencies:
   - bokeh
   - cftime
   - folium
+  - geolinks
   - ioos-tools
   - iris
   - matplotlib
