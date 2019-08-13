@@ -1,0 +1,19 @@
+name: BSL
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyter
+  - bokeh
+  - cftime
+  - folium
+  - ioos-tools
+  - iris
+  - matplotlib
+  - netcdf4
+  - numpy
+  - owslib
+  - pandas
+  - pyoos
+  - timeout-decorator
