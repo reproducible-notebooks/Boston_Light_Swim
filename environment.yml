@@ -1,9 +1,8 @@
 name: BSL
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python=3.7
+  - python=3.9
   - jupyter
   - bokeh
   - cftime
@@ -15,6 +14,6 @@ dependencies:
   - netcdf4
   - numpy
   - owslib
-  - pandas=0.24.2
+  - pandas
   - pyoos
   - timeout-decorator
